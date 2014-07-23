@@ -5,9 +5,9 @@
   "description": "General Parser API providing Packrat Parsers combinators and a Monadic support (requiers monax)",
   "contributors": ["sledorze"],
   "releasenote": "Haxe 3 support",
-  "version": "2",
+  "version": "1.5.0",
   "url": "https://github.com/sledorze/Parsex",
   "dependencies": {
-    "monax": ""
+    "monax": "1.5.0"
   }
 }
